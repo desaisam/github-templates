@@ -1,8 +1,18 @@
 ## Issue
 Closes #123
 
-## Description
-Brief description of what this PR does.
+## 🔍 Context
+**What is the problem?**
+<!-- Explain the bug or the feature request (e.g., "Users get a 500 error when clicking X") -->
+
+**What is the solution?**
+<!-- Explain your technical approach (e.g., "Added a nil check in User model") -->
+
+## 📸 Screenshots / Demos
+<!-- If this is a UI change, please attach a screenshot or GIF. If backend, paste a sample API response or log. -->
+
+## 🔗 Related Links
+<!-- Link to Jira ticket, design mockups, or Slack discussion -->
 
 ## Affected Apps
 - [ ] App A
